@@ -1,8 +1,8 @@
 # Julio Cesar Mauro
-###### Tel: (11) 99281-0297
-###### E-mail: juliomauro@gmail.com
-###### LinkeIn: https://linkedin.com/in/juliomauro
-###### GitHUB: https://github.com/juliomauro
+* Tel: (11) 99281-0297
+* E-mail: juliomauro@gmail.com
+* LinkeIn: https://linkedin.com/in/juliomauro
+* GitHUB: https://github.com/juliomauro
 
 ### COMPETÊNCIAS
 
