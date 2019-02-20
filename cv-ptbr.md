@@ -24,17 +24,16 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
 
 ##### CVC Corp, Santo André / Trend Operadora, São Paulo 
 * Coordenador de infraestrutura e Cloud
-* DevOps em ambiente AWS e VMWare
+* DevOPS em ambiente AWS e VMWare
 * Especialista AWS, VMware e Linux
 
 ###### DESDE DE NOVEMBRO DE 2015
 ```
-- Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes AWS e VMware por código .
-- Supervisor responsável pelas equipe de infraestrutura e suporte interno, prezando pelo bom funcionamento dos sistemas internos e externos da empresa.
+- Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes AWS, VMware e GCP utilizando Git, Docker, Ansible, Terraform por código .
 - Especialista responsável pelo ambiente AWS da empresa, contemplando os
 serviços EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53,
 CloudWatch ELB, S3, CDN e RDS.
-- Supervisor responsável pela equipe de infraestrutura da empresa
+- Supervisor responsável pela equipe de infraestrutura da empresa.
 - Responsável pelas equipes de backup, linux, windows da empresa.
 - Responsável direto pelo ambiente VMware, VMWare, AWS e Linux da empresa.
 - Responsável técnico pela a implantação do sistema de ERP da empresa
@@ -55,6 +54,7 @@ Windows.
 containers.
 - Responsável pela criação do cluster de FreeIPA da empresa, bem como sua
 manutenção.
+- Supervisor responsável pelas equipe de infraestrutura prezando pelo bom funcionamento dos sistemas internos e externos da empresa.
 - Responsável pelo ambiente VMware e Linux do Grupo Trend, empresa
 absorvida pela CVC
 ```
