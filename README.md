@@ -28,11 +28,9 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
 * Especialista AWS, VMware e Linux
 
 ###### DESDE DE NOVEMBRO DE 2015
-
-* Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes AWS e VMware por código .
-* Supervisor responsável pelas equipe de infraestrutura e suporte interno, prezando pelo bom funcionamento dos sistemas internos e externos da empresa.
-
 ```
+- Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes AWS e VMware por código .
+- Supervisor responsável pelas equipe de infraestrutura e suporte interno, prezando pelo bom funcionamento dos sistemas internos e externos da empresa.
 - Especialista responsável pelo ambiente AWS da empresa, contemplando os
 serviços EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53,
 CloudWatch ELB, S3, CDN e RDS.
