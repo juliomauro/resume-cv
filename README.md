@@ -1,4 +1,5 @@
 # Julio Cesar Mauro
+* Tel: (11) 99281-0297
 * E-mail: juliomauro@gmail.com
 * LinkeIn: https://linkedin.com/in/juliomauro
 * GitHUB: https://github.com/juliomauro
@@ -59,6 +60,7 @@ manutenção.
 - Responsável pelo ambiente VMware e Linux do Grupo Trend, empresa
 absorvida pela CVC
 ```
+
 ##### Folha de S.Paulo, São Paulo 
 * Coordenador de TI
 
