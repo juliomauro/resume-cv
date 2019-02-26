@@ -2,6 +2,7 @@
 # Julio Cesar Mauro
 
 * E-mail: (juliomauro@gmail.com)
+* <a href="url">link text</a>
 * LinkedIn: (https://linkedin.com/in/juliomauro)
 * GitHUB: (https://github.com/juliomauro)
 
