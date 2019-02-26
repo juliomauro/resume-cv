@@ -92,8 +92,7 @@ utilização posterior pela redação do jornal como forma de acervo.
 - Criação de clusters MYSQL de alta disponibilidade
 - Modificações e melhorias no método de monitoração de serviços e
 servidores da empresa
-- Criação da infraestrutura para a cobertura das eleições brasileiras de
-2014.
+- Criação da infraestrutura para a cobertura das eleições brasileiras de 2014.
 - Criação da infraestrutura para a cobertura Copa do Mundo de 2014.
 
 #### S.A. O Estado de S.Paulo, São Paulo
@@ -175,16 +174,16 @@ servidores da empresa
 
 ### FORMAÇÃO
 
-##### Kaplan International English, Toronto, Canadá
+#### Kaplan International English, Toronto, Canadá
 ######  NOVEMBRO DE 2017 - DEZEMBRO DE 2017
 * Intensive English to improve quickly on English fluency and learn grammar and
 vocabulary.
 
-##### FASP, São Paulo
+#### FASP, São Paulo
 ###### FEVEREIRO DE 1999 - NOVEMBRO DE 2003
 * Engenharia da computação
 
-##### FECAP, São Paulo
+#### FECAP, São Paulo
 ###### FEVEREIRO DE 1995 - DEZEMBRO DE 1997
 * Técnico em Processamento de dados
 
