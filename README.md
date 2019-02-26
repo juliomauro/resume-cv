@@ -1,5 +1,5 @@
-# Julio Cesar Mauro
-![Image of Yaktocat](https://avatars1.githubusercontent.com/u/25463339)
+![Julio Mauro]https(://avatars1.githubusercontent.com/u/25463339?s=90&v=4) # Julio Cesar Mauro
+
 * E-mail: juliomauro@gmail.com
 * LinkeIn: https://linkedin.com/in/juliomauro
 * GitHUB: https://github.com/juliomauro
