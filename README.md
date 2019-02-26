@@ -1,9 +1,9 @@
 ![Julio Mauro](https://avatars1.githubusercontent.com/u/25463339?s=90&v=4) 
 # Julio Cesar Mauro
 
-* E-mail: (juliomauro@gmail.com)
-* LinkedIn: (https://linkedin.com/in/juliomauro)
-* GitHUB: (https://github.com/juliomauro)
+* E-mail: <a href="mailto:juliomauro@gmail.com">juliomauro@gmail.com</a>
+* LinkedIn: <a href="https://linkedin.com/in/juliomauro">https://linkedin.com/in/juliomauro</a>
+* GitHUB: <a href="https://github.com/juliomauro">https://github.com/juliomauro</a>
 
 ### COMPETÊNCIAS
 
