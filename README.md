@@ -68,7 +68,7 @@ absorvida pela CVC
 Paulo, prezando pelo bom funcionamento do dos sites da Folha bem como o sistemas
 WEB internos e externos. Responsável pelos seguintes projetos executados pelas
 equipes coordenadas.
-```
+
 - Reformulação e melhorias dos processos/servidores que envolvem a parte de
 internet e impressão do jornal.
 - Reformulação do ambiente de virtualização com a migração da plataforma de
@@ -92,7 +92,7 @@ servidores da empresa
 - Criação da infraestrutura para a cobertura das eleições brasileiras de
 2014.
 - Criação da infraestrutura para a cobertura Copa do Mundo de 2014.
-```
+
 ##### S.A. O Estado de S.Paulo, São Paulo
 * Especialista VMWare e Consultor Linux Sênior
 
@@ -110,7 +110,6 @@ administração/monitoração do ambiente pelo VCenter+Storage dedicado.
 * Responsável pela elaboração e execução do projeto "Nirvana" dos portais do
 estadão que consistia em consolidar todos os servidores em uma plataforma única
 e centralizada com VMware VSphere 5. Responsável técnico pelos projetos abaixo.
-```
 - Novo portal do Estadão: Reestruturação da infraestrutura, atualização e
 nova diagramação do site.
 - Radio Estadão ESPN: Implantação da estrutura para o novo site da radio
@@ -130,7 +129,7 @@ nos servidores apache de front-end.
 “Realmedia OAS 11”.
 - Implantação e manutenção em produção da estrutura do portal Estadão na
 CDN AKAMAI.
-```
+
 ##### Sterling Commerce, São Paulo e Curitiba
 * Consultor Senior Linux e GIS
 
@@ -140,7 +139,7 @@ CDN AKAMAI.
 como Banco Itaú, Banco HSBC, Banco Votorantim, CEMIG entre outras buscando e
 criando soluções para intercâmbio de arquivos, tratamento de dados,
 gerenciamento de processos e consultoria na plataforma Linux/UNIX.
-```
+
 - Consultor responsável pelo projeto File Transfer do HSBC, unindo os
 sistemas de pagamentos do HSBC no site Brasil, localizado em Curitiba.
 - Consultor responsável pelo projeto de pagamento internacional do Banco
@@ -152,13 +151,13 @@ pagamentos na compra do banco do Brasil Banco do Brasil pelo Itaú.
 - Instrutor do curso de GIS (Gentran Integration Suite) para novos clientes
 e consultores da própria Sterling Commerce, trabalhando em plataformas
 Linux, Unix e Solaris.
-```
+
 ##### Telium Networks, São Paulo 
 * Coordenador de Projetos Linux e líder de equipe linux
 
 ###### SETEMBRO DE 2004 - MARÇO DE 2007
 
-```
+
 - Implantação da nova estrutura de email baseado em Postifix integrado com
 OpenLdap
 - Migração dos servidores
@@ -178,7 +177,7 @@ Telium Networks, incluindo servidores HTTP e autenticação
 - Migração do serviço de monitoração dos serviços para o sistema NAGIOS
 - Criação de um sistema de segurança utilizado PF do OpenBSD + OSSEC
 - Manutenção aos serviços implantados durante o período de contratação.
-```
+
 ### FORMAÇÃO
 
 ##### Kaplan International English, Toronto, Canadá
@@ -196,7 +195,7 @@ vocabulary.
 
 ### CURSOS E CERTIFICAÇÕES
 
-```
+
 - AWS Security Fundamentals
 - AWS Certified SysOps Administrator
 - AWS EC2: High availability and scalable
@@ -225,11 +224,11 @@ vocabulary.
 - ITIL Foundation V
 - JIRA - Administração
 - Linux Professional Institute - LPI 101 e 102
-```
+
 ### IDIOMAS
 
-```
+
 - Português nativo
 - Inglês avançado
 - Italiano avançado
-```
+
