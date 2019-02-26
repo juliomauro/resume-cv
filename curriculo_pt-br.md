@@ -180,7 +180,7 @@ vocabulary.
 
 #### FASP, São Paulo
 ###### FEVEREIRO DE 2002 - NOVEMBRO DE 2007
-* Engenharia da computação
+* Bacharel em Engenharia da computação
 
 #### FECAP, São Paulo
 ###### FEVEREIRO DE 1995 - DEZEMBRO DE 1997
