@@ -30,7 +30,8 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
 
 ###### DESDE DE NOVEMBRO DE 2015
 ```
-- Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes AWS, VMware e GCP utilizando Git, Docker, Ansible, Terraform por código .
+- Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes 
+  AWS, VMware e GCP utilizando Git, Docker, Ansible, Terraform por código .
 - Especialista responsável pelo ambiente AWS da empresa, contemplando os
 serviços EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53,
 CloudWatch ELB, S3, CDN e RDS.
@@ -55,7 +56,8 @@ Windows.
 containers.
 - Responsável pela criação do cluster de FreeIPA da empresa, bem como sua
 manutenção.
-- Supervisor responsável pelas equipe de infraestrutura prezando pelo bom funcionamento dos sistemas internos e externos da empresa.
+- Supervisor responsável pelas equipe de infraestrutura prezando pelo bom funcionamento dos 
+  sistemas internos e externos da empresa.
 - Responsável pelo ambiente VMware e Linux do Grupo Trend, empresa
 absorvida pela CVC
 ```
@@ -98,38 +100,37 @@ servidores da empresa
 * Especialista VMWare e Consultor Linux Sênior
 
 ###### MARÇO DE 2009 - DEZEMBRO DE 2012
-
-* Um dos responsáveis pela manutenção e funcionamento da infraestrutura do
-ambiente de portais do Grupo Estado, focando o trabalho nas plataformas VMWare e
-servidores Linux. E responsabilidade paralela de coordenação da equipe de
-infraestrutura dos portais do grupo.
-* Responsável pela inicialização, utilização e consolidação da plataforma VMWare
-no ambiente ocasionando maior tempo de disponibilidade do ambiente, redução de
-custos, agilidade de entrega de nova estrutura de servidores para novos projetos
-e normalização total do ambiente, devido a centralização dos processos de
-administração/monitoração do ambiente pelo VCenter+Storage dedicado.
-* Responsável pela elaboração e execução do projeto "Nirvana" dos portais do
-estadão que consistia em consolidar todos os servidores em uma plataforma única
-e centralizada com VMware VSphere 5. Responsável técnico pelos projetos abaixo.
-- Novo portal do Estadão: Reestruturação da infraestrutura, atualização e
-nova diagramação do site.
-- Radio Estadão ESPN: Implantação da estrutura para o novo site da radio
-Estadão ESPN, bem como coordenação da migração dos servidores da ESPN
-para o ambiente VMWare da estrutura do Portal Estadão.
+```
+* Um dos responsáveis pela manutenção e funcionamento da infraestrutura do ambiente de 
+  portais do Grupo Estado, focando o trabalho nas plataformas VMWare e servidores Linux, lider 
+  da equipe de infraestrutura dos portais do grupo.
+* Responsável pela inicialização, utilização e consolidação da plataforma VMWare no ambiente 
+  ocasionando maior tempo de disponibilidade do ambiente, redução de custos, agilidade de 
+  entrega de nova estrutura de servidores para novos projetos e normalização total do ambiente, 
+  devido a centralização dos processos de administração/monitoração do ambiente pelo VCenter 
+  + Storage dedicado.
+* Responsável pela elaboração e execução do projeto "Nirvana" dos portais do estadão que 
+  consistia em consolidar todos os servidores em uma plataforma única e centralizada com VMware 
+  VSphere 5. Responsável técnico pelos projetos abaixo.
+- Novo portal do Estadão: Reestruturação da infraestrutura, atualização e nova diagramação do site.
+- Radio Estadão ESPN: Implantação da estrutura para o novo site da radio Estadão ESPN, bem como 
+  coordenação da migração dos servidores da ESPN para o ambiente VMWare da estrutura do Portal 
+  Estadão.
 - Projeto iPAD: Implantação dos servidores na plataforma Woodwing para
-diagramação do conteúdo para ipad.
+  diagramação do conteúdo para ipad.
 - Projeto Acervo Estadão: onde foi disponibilizado todas as edições do
-estadão na internet (137 anos de jornal).
+  estadão na internet (137 anos de jornal).
 - Projetos do site do estadão como: Divirta-se, Projeto E+, PME, Revista
-Piauí, Economia, Política e estrutura de blogs em Wordpress.
+  Piauí, Economia, Política e estrutura de blogs em Wordpress.
 - Implantação e configuração de storages HP iSCSI serie P4000 para
-utilização com VMWare e linux no ambiente do portal estadão.
+  utilização com VMWare e linux no ambiente do portal estadão.
 - Implantação e utilização de servidores Varnish para diminuição de carga
-nos servidores apache de front-end.
+  nos servidores apache de front-end.
 - Implantação da nova infraestrutura e migração do ambiente de publicidade
-“Realmedia OAS 11”.
+  “Realmedia OAS 11”.
 - Implantação e manutenção em produção da estrutura do portal Estadão na
-CDN AKAMAI.
+  CDN AKAMAI.
+```
 
 ##### Sterling Commerce, São Paulo e Curitiba
 * Consultor Senior Linux e GIS
