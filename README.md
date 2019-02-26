@@ -29,7 +29,7 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
 * Especialista AWS, VMware e Linux
 
 ###### DESDE DE NOVEMBRO DE 2015
-
+```
 - Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes AWS, VMware e GCP utilizando Git, Docker, Ansible, Terraform por código .
 - Especialista responsável pelo ambiente AWS da empresa, contemplando os
 serviços EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53,
@@ -58,7 +58,7 @@ manutenção.
 - Supervisor responsável pelas equipe de infraestrutura prezando pelo bom funcionamento dos sistemas internos e externos da empresa.
 - Responsável pelo ambiente VMware e Linux do Grupo Trend, empresa
 absorvida pela CVC
-
+```
 
 ##### Folha de S.Paulo, São Paulo 
 * Coordenador de TI
