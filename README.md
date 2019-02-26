@@ -154,7 +154,6 @@ servidores da empresa
 
 ###### SETEMBRO DE 2004 - MARÇO DE 2007
 
-
 - Implantação da nova estrutura de email baseado em Postifix integrado com OpenLdap
 - Migração dos servidores
 - Implantação da nova estrutura de email baseado em Postifix integrado com OpenLdap
@@ -180,7 +179,7 @@ servidores da empresa
 vocabulary.
 
 #### FASP, São Paulo
-###### FEVEREIRO DE 1999 - NOVEMBRO DE 2003
+###### FEVEREIRO DE 2002 - NOVEMBRO DE 2007
 * Engenharia da computação
 
 #### FECAP, São Paulo
@@ -188,7 +187,6 @@ vocabulary.
 * Técnico em Processamento de dados
 
 ### CURSOS E CERTIFICAÇÕES
-
 
 - AWS Security Fundamentals
 - AWS Certified SysOps Administrator
@@ -220,7 +218,6 @@ vocabulary.
 - Linux Professional Institute - LPI 101 e 102
 
 ### IDIOMAS
-
 
 - Português nativo
 - Inglês avançado
