@@ -29,38 +29,38 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
 * Especialista AWS, VMware e Linux
 
 ###### DESDE DE NOVEMBRO DE 2015
-```
+
 - Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes 
   AWS, VMware e GCP utilizando Git, Docker, Ansible, Terraform por código .
 - Especialista responsável pelo ambiente AWS da empresa, contemplando os
-serviços EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53,
-CloudWatch ELB, S3, CDN e RDS.
+  serviços EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53,
+  CloudWatch ELB, S3, CDN e RDS.
 - Supervisor responsável pela equipe de infraestrutura da empresa.
 - Responsável pelas equipes de backup, linux, windows da empresa.
 - Responsável direto pelo ambiente VMware, VMWare, AWS e Linux da empresa.
 - Responsável técnico pela a implantação do sistema de ERP da empresa
-baseado em JDE + Weblogic + Oracle.
+  baseado em JDE + Weblogic + Oracle.
 - Responsável técnico pela a implantação do servidor NoSQL MongoDB para
-utilização por parceiros da empresa
+  utilização por parceiros da empresa
 - Coordenador técnico responsável pela implantação dos servidores do site
-Segue Viagem - guia de viagens da Trend Operadora
+  Segue Viagem - guia de viagens da Trend Operadora
 - Coordenador responsável pela mudança da infraestrutura de redes e
-servidores para o prédio novo do grupo na Barra Funda.
+  servidores para o prédio novo do grupo na Barra Funda.
 - Coordenador técnico responsável pela mudança de backup do grupo para a
-AWS.
+  AWS.
 - Integrante sênior da equipe de DevOPS da empresa responsável pela
-automação dos ambientes AWS e VMware utilizando Git, Docker, Ansible,
-Terraform entre outras ferramentas da cultura DevOps em ambientes Linux e
-Windows.
+  automação dos ambientes AWS e VMware utilizando Git, Docker, Ansible,
+  Terraform entre outras ferramentas da cultura DevOps em ambientes Linux e
+  Windows.
 - Administração e manutenção do ambiente de Rancher para administração dos
-containers.
+  containers.
 - Responsável pela criação do cluster de FreeIPA da empresa, bem como sua
-manutenção.
+  manutenção.
 - Supervisor responsável pelas equipe de infraestrutura prezando pelo bom funcionamento dos 
   sistemas internos e externos da empresa.
 - Responsável pelo ambiente VMware e Linux do Grupo Trend, empresa
-absorvida pela CVC
-```
+  absorvida pela CVC
+
 
 ##### Folha de S.Paulo, São Paulo 
 * Coordenador de TI
@@ -100,7 +100,7 @@ servidores da empresa
 * Especialista VMWare e Consultor Linux Sênior
 
 ###### MARÇO DE 2009 - DEZEMBRO DE 2012
-```
+
 * Um dos responsáveis pela manutenção e funcionamento da infraestrutura do ambiente de 
   portais do Grupo Estado, focando o trabalho nas plataformas VMWare e servidores Linux, lider 
   da equipe de infraestrutura dos portais do grupo.
@@ -116,21 +116,18 @@ servidores da empresa
 - Radio Estadão ESPN: Implantação da estrutura para o novo site da radio Estadão ESPN, bem como 
   coordenação da migração dos servidores da ESPN para o ambiente VMWare da estrutura do Portal 
   Estadão.
-- Projeto iPAD: Implantação dos servidores na plataforma Woodwing para
-  diagramação do conteúdo para ipad.
-- Projeto Acervo Estadão: onde foi disponibilizado todas as edições do
-  estadão na internet (137 anos de jornal).
-- Projetos do site do estadão como: Divirta-se, Projeto E+, PME, Revista
-  Piauí, Economia, Política e estrutura de blogs em Wordpress.
-- Implantação e configuração de storages HP iSCSI serie P4000 para
-  utilização com VMWare e linux no ambiente do portal estadão.
-- Implantação e utilização de servidores Varnish para diminuição de carga
-  nos servidores apache de front-end.
-- Implantação da nova infraestrutura e migração do ambiente de publicidade
-  “Realmedia OAS 11”.
-- Implantação e manutenção em produção da estrutura do portal Estadão na
-  CDN AKAMAI.
-```
+- Projeto iPAD: Implantação dos servidores na plataforma Woodwing para diagramação do conteúdo para ipad.
+- Projeto Acervo Estadão: onde foi disponibilizado todas as edições do estadão na internet 
+  (137 anos de jornal).
+- Projetos do site do estadão como: Divirta-se, Projeto E+, PME, Revista Piauí, Economia, Política e
+  estrutura de blogs em Wordpress.
+- Implantação e configuração de storages HP iSCSI serie P4000 para utilização com VMWare e linux no 
+  ambiente do portal estadão.
+- Implantação e utilização de servidores Varnish para diminuição de carga nos servidores apache de 
+  front-end.
+- Implantação da nova infraestrutura e migração do ambiente de publicidade “Realmedia OAS 11”.
+- Implantação e manutenção em produção da estrutura do portal Estadão na CDN AKAMAI.
+
 
 ##### Sterling Commerce, São Paulo e Curitiba
 * Consultor Senior Linux e GIS
@@ -138,21 +135,20 @@ servidores da empresa
 ###### MARÇO DE 2007 - MARÇO DE 2009
 
 * Atuando como consultor de soluções para diversas empresas do setor financeiro
-como Banco Itaú, Banco HSBC, Banco Votorantim, CEMIG entre outras buscando e
-criando soluções para intercâmbio de arquivos, tratamento de dados,
-gerenciamento de processos e consultoria na plataforma Linux/UNIX.
+  como Banco Itaú, Banco HSBC, Banco Votorantim, CEMIG entre outras buscando e
+  criando soluções para intercâmbio de arquivos, tratamento de dados,
+  gerenciamento de processos e consultoria na plataforma Linux/UNIX.
 
 - Consultor responsável pelo projeto File Transfer do HSBC, unindo os
-sistemas de pagamentos do HSBC no site Brasil, localizado em Curitiba.
+  sistemas de pagamentos do HSBC no site Brasil, localizado em Curitiba.
 - Consultor responsável pelo projeto de pagamento internacional do Banco
-Itaú.
+  Itaú.
 - Consultor responsável pelo projeto de integração de pagamentos entre
-bancos nacionais do Banco Itaú.
+  bancos nacionais do Banco Itaú.
 - Consultor responsável pelo projeto de integração de sistemas de
-pagamentos na compra do banco do Brasil Banco do Brasil pelo Itaú.
-- Instrutor do curso de GIS (Gentran Integration Suite) para novos clientes
-e consultores da própria Sterling Commerce, trabalhando em plataformas
-Linux, Unix e Solaris.
+  pagamentos na compra do banco do Brasil Banco do Brasil pelo Itaú.
+- Instrutor do curso de GIS (Gentran Integration Suite) para novos clientes e 
+  consultores da própria Sterling Commerce, trabalhando em plataformas Linux, Unix e Solaris.
 
 ##### Telium Networks, São Paulo 
 * Coordenador de Projetos Linux e líder de equipe linux
@@ -160,22 +156,19 @@ Linux, Unix e Solaris.
 ###### SETEMBRO DE 2004 - MARÇO DE 2007
 
 
-- Implantação da nova estrutura de email baseado em Postifix integrado com
-OpenLdap
+- Implantação da nova estrutura de email baseado em Postifix integrado com OpenLdap
 - Migração dos servidores
-- Implantação da nova estrutura de email baseado em Postifix integrado com
-OpenLdap
-- Migração dos servidores WEB de plataforma RH 6.2 para Debian 3.1 com
-implantação de Load Balancer entre os servidores e integração com
-OpenLdap
-- Criação do sistema de estatisticas da estrutura web utilizando AWSTATS em
-conjunto com Shell Script e Perl.
-- Reestruturação da base de autenticação de clientes implantando
-redundância no serviço do Radiator para sistema de Dial-Up e Speedy
-- Implantação de servidores de Backup em plataforma Linux utilizando Shell
-Script e fitas DAT/DVD centralizando o serviço um servidor específico
-- Migração da carteira de clientes do provedor OSite para a estrutura da
-Telium Networks, incluindo servidores HTTP e autenticação
+- Implantação da nova estrutura de email baseado em Postifix integrado com OpenLdap
+- Migração dos servidores WEB de plataforma RH 6.2 para Debian 3.1 com implantação 
+  de Load Balancer entre os servidores e integração com OpenLdap
+- Criação do sistema de estatisticas da estrutura web utilizando AWSTATS em conjunto 
+  com Shell Script e Perl.
+- Reestruturação da base de autenticação de clientes implantando redundância no serviço
+  do Radiator para sistema de Dial-Up e Speedy
+- Implantação de servidores de Backup em plataforma Linux utilizando Shell Script e fitas 
+  DAT/DVD centralizando o serviço um servidor específico
+- Migração da carteira de clientes do provedor OSite para a estrutura da Telium Networks, 
+  incluindo servidores HTTP e autenticação
 - Migração do serviço de monitoração dos serviços para o sistema NAGIOS
 - Criação de um sistema de segurança utilizado PF do OpenBSD + OSSEC
 - Manutenção aos serviços implantados durante o período de contratação.
@@ -233,4 +226,3 @@ vocabulary.
 - Português nativo
 - Inglês avançado
 - Italiano avançado
-
