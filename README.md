@@ -107,8 +107,8 @@ servidores da empresa
 * Responsável pela inicialização, utilização e consolidação da plataforma VMWare no ambiente 
   ocasionando maior tempo de disponibilidade do ambiente, redução de custos, agilidade de 
   entrega de nova estrutura de servidores para novos projetos e normalização total do ambiente, 
-  devido a centralização dos processos de administração/monitoração do ambiente pelo VCenter 
-  + Storage dedicado.
+  devido a centralização dos processos de administração/monitoração do ambiente pelo VCenter Storage
+  dedicado.
 * Responsável pela elaboração e execução do projeto "Nirvana" dos portais do estadão que 
   consistia em consolidar todos os servidores em uma plataforma única e centralizada com VMware 
   VSphere 5. Responsável técnico pelos projetos abaixo.
