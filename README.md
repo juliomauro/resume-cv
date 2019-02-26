@@ -23,7 +23,7 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
 
 ### EXPERIÊNCIA PROFISSIONAL
 
-##### CVC Corp, Santo André / Trend Operadora, São Paulo 
+#### CVC Corp, Santo André / Trend Operadora, São Paulo 
 * Coordenador de infraestrutura e Cloud
 * DevOPS em ambiente AWS e VMWare
 * Especialista AWS, VMware e Linux
@@ -62,7 +62,7 @@ Tenho facilidade em entender ambientes complexos, identificando os caminhos mais
   absorvida pela CVC
 
 
-##### Folha de S.Paulo, São Paulo 
+#### Folha de S.Paulo, São Paulo 
 * Coordenador de TI
 
 ###### JANEIRO DE 2013 - OUTUBRO DE 2015
@@ -96,7 +96,7 @@ servidores da empresa
 2014.
 - Criação da infraestrutura para a cobertura Copa do Mundo de 2014.
 
-##### S.A. O Estado de S.Paulo, São Paulo
+#### S.A. O Estado de S.Paulo, São Paulo
 * Especialista VMWare e Consultor Linux Sênior
 
 ###### MARÇO DE 2009 - DEZEMBRO DE 2012
@@ -129,7 +129,7 @@ servidores da empresa
 - Implantação e manutenção em produção da estrutura do portal Estadão na CDN AKAMAI.
 
 
-##### Sterling Commerce, São Paulo e Curitiba
+#### Sterling Commerce, São Paulo e Curitiba
 * Consultor Senior Linux e GIS
 
 ###### MARÇO DE 2007 - MARÇO DE 2009
@@ -150,7 +150,7 @@ servidores da empresa
 - Instrutor do curso de GIS (Gentran Integration Suite) para novos clientes e 
   consultores da própria Sterling Commerce, trabalhando em plataformas Linux, Unix e Solaris.
 
-##### Telium Networks, São Paulo 
+#### Telium Networks, São Paulo 
 * Coordenador de Projetos Linux e líder de equipe linux
 
 ###### SETEMBRO DE 2004 - MARÇO DE 2007
