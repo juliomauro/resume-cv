@@ -1,3 +1,4 @@
+![Julio Mauro](https://avatars1.githubusercontent.com/u/25463339?s=90&v=4) 
 # Julio Cesar Mauro
 * E-mail: juliomauro@gmail.com
 * LinkeIn: https://linkedin.com/in/juliomauro
@@ -5,17 +6,28 @@
 
 ### PROFESSIONAL SKILLS:
 
-For more than twenty years I have been working as an IT professional employee and than as a consultant. Doing so I had the opportunity of working for distinct markets and companies as follows: Internet providers, banks, newspaper as well as for the tourism market. I have taken part on teams such as IT senior teams, support and sustainability, systems architecture and yet on IT operational infrastructure team.
+As a seasoned professional with more than twenty years of experience, I had the opportunity of working for different industries such as Internet Service Providers, Banks, News Media and Tourism.
+I have a broad experience in operations, systems architecture and infrastructure.
 
-Throughout my IT carrier I have been taking the advantage of the Open Source technologies on which I would make it possible of doing things myself as my aim purpose. Therefore, archiving costs reduction as well increasing agility for delivering solutions.
-Finally I have got also the expertise of understanding IT complex enterprise environments such as Data Centers working flows, and the ability to identify the best practices to deliver fast good results. Experience on leadership of senior IT working teams as well as of 24x7 operational support teams. I can be capable to handle interviews for the new company’s job opportunity as required.
+Between my knowledge of open source solutions and past experiences, I am able to deliver reliable and fast low-cost solutions.
+
+My experience managing large and complex environments allows me to identify the best practices to deliver excellent results, both independently and as part of a team.
 
 ### COMPUTER LITERACY:
 
-Solid technological experience on several applications as follows: VMWare, Linux, AWS virtualization, PV2, Vmotion, Storage, HA, balancer, Tunning and vSphere and its functionalities.
-On AWS environment: Large experience on EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53, CloudWatch ELB, S3, CDN and RDS.
-On Linux environment: Solid experience with Web Servers, Varnish cache application, Wordpress Blog server, VPN, FTP server, OpenLdap implementation, IPTables security FW, MySQL database, AWStats, DHCP server, Linux Shell script coding, Phyton, Ansible, Terraform and also K8s for computer tasks automation.
-On AWS platform: Vast experience on deploying new server machines and DR environment. Administration of applications as follows: Balancers, Firewall, Backup, Storage and other solutions such as AKAMAI CDN configuration and testing, BIG-IP, F5 and A10 Networks balancer solutions. Irules, Virtual pool servers for servers loading distribution, Storage and iSCSI protocol.
+- Solid technological experience on several applications as follows: VMWare, Linux, AWS
+  virtualization, PV2, Vmotion, Storage, HA, balancer, Tunning and vSphere and its functionalities.
+- On AWS environment: Large experience on EC2, EBS, Security Group, VPC, VPN, AutoScaling, 
+  Route 53, CloudWatch ELB, S3, CDN and RDS.
+- On Linux environment: Solid experience with Web Servers, Varnish cache application, Wordpress
+  Blog server, VPN, FTP server, OpenLdap implementation, IPTables security FW, MySQL database,
+  AWStats, DHCP server, Linux Shell script coding, Phyton, Ansible, Terraform and also K8s for
+  computer tasks automation.
+- On AWS platform: Vast experience on deploying new server machines and DR environment.
+  Administration of applications as follows: Balancers, Firewall, Backup, Storage and other
+  solutions such as AKAMAI CDN configuration and testing, BIG-IP, F5 and A10 Networks balancer
+  solutions. Irules, Virtual pool servers for servers loading distribution, Storage and iSCSI
+  protocol.
 
 
 ### WORK EXPERIENCE
@@ -52,7 +64,7 @@ Senior IT coordinator
 ```
 - As a coordenator, the main tasks were as follows: Reformulations and improvements of the web
   systems, server process and newspaper printing solution; migration of XEN-Virtualization
-   platform to VMWare / Vsphere.
+  platform to VMWare / Vsphere.
 - Reponsible for implementing the VMware high ability virtualization pool as well as for
   redesigning the new Company's main Website, smartphone and tablet APP. e.g. Livraria da Folha,
   Transfolha, Folhapress,  and yet Backup and restore new infrastructure solution. Also,  a new
@@ -93,20 +105,20 @@ Other project learship were as follows:
 - Divirta-se, E+, PME, Piauí, Economia, Política and Wordpress blogs.
 ```
 
-### FORMAÇÃO
+### EDUCATION
 
 ##### Kaplan International English, Toronto, Canadá
-######  NOVEMBRO DE 2017 - DEZEMBRO DE 2017
+######  NOVEMBER 2017 - DECEMBER 2017
 * Intensive English to improve quickly on English fluency and learn grammar and
 vocabulary.
 
 ##### FASP, São Paulo
-###### FEVEREIRO DE 1999 - NOVEMBRO DE 2003
-* Engenharia da computação
+###### FEBRUARY 2002 - NOVEMBER 2007
+* Bachelor of Science in Computer Engineering
 
 ##### FECAP, São Paulo
-###### FEVEREIRO DE 1995 - DEZEMBRO DE 1997
-* Técnico em Processamento de dados
+###### FEBRUARY 1995 - DECEMBER 1997
+* Data Processing Technician
 
 ### PROFESSIONAL ON JOB COMPUTER AND CERTIFIED TRAINING COURSES:
 
@@ -140,10 +152,10 @@ vocabulary.
 - Linux Professional Institute - LPI 101 e 102
 ```
 
-### IDIOMAS
+### LANGUAGES
 
 ```
-- Português nativo
-- Inglês avançado
-- Italiano avançado
+- Native Portuguese
+- Advanced English
+- Advanced Italian
 ```
