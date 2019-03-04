@@ -1,4 +1,3 @@
-![Julio Mauro](https://avatars1.githubusercontent.com/u/25463339?s=90&v=4) 
 # Julio Cesar Mauro
 * E-mail: juliomauro@gmail.com
 * LinkeIn: https://linkedin.com/in/juliomauro
@@ -94,20 +93,20 @@ Other project learship were as follows:
 - Divirta-se, E+, PME, Piauí, Economia, Política and Wordpress blogs.
 ```
 
-### FORMAÇÃO
+### EDUCATION
 
 ##### Kaplan International English, Toronto, Canadá
-######  NOVEMBRO DE 2017 - DEZEMBRO DE 2017
+######  NOVEMBER 2017 - DECEMBER 2017
 * Intensive English to improve quickly on English fluency and learn grammar and
 vocabulary.
 
 ##### FASP, São Paulo
-###### FEVEREIRO DE 1999 - NOVEMBRO DE 2003
-* Engenharia da computação
+###### FEBRUARY 2002 - NOVEMBER 2007
+* Bachelor of Science in Computer Engineering
 
 ##### FECAP, São Paulo
-###### FEVEREIRO DE 1995 - DEZEMBRO DE 1997
-* Técnico em Processamento de dados
+###### FEBRUARY 1995 - DECEMBER 1997
+* Data Processing Technician
 
 ### PROFESSIONAL ON JOB COMPUTER AND CERTIFIED TRAINING COURSES:
 
@@ -141,11 +140,10 @@ vocabulary.
 - Linux Professional Institute - LPI 101 e 102
 ```
 
-### IDIOMAS
+### LANGUAGES
 
 ```
-- Português nativo
-- Inglês avançado
-- Italiano avançado
+- Native Portuguese
+- Advanced English
+- Advanced Italian
 ```
-
