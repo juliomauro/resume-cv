@@ -83,25 +83,25 @@ equipes coordenadas.
 
 ```
 - Reformulação e melhorias dos processos/servidores que envolvem a parte de
-internet e impressão do jornal.
+  internet e impressão do jornal.
 - Reformulação do ambiente de virtualização com a migração da plataforma de
-virtualização de servidores em XEN para VMware Vsphere.
+  virtualização de servidores em XEN para VMware Vsphere.
 - Implantação do pool de virtualização VMWare em alta disponibilidade.
 - Reformulação do novo portal da Folha
 - Reformulação do aplicativo para smartphones e tablets da Folha
 - Reformulação do site mobile da Folha.
 - Novo sistema de busca baseado em sphinx e elasticsearch
 - Migração do sistema 'Digital Pages' da plataforma Amazon para datacenter
-próprio
+  próprio
 - Reformulação do portal da Livraria da Folha
 - Reformulação do portal da Transfolha
 - Reformulação do portal da Folhapress
 - Reformulação do sistema de backup da Folha.
 - Criação de sistema de gravação e indexação de conteúdo de TV digital para
-utilização posterior pela redação do jornal como forma de acervo.
+  utilização posterior pela redação do jornal como forma de acervo.
 - Criação de clusters MYSQL de alta disponibilidade
 - Modificações e melhorias no método de monitoração de serviços e
-servidores da empresa
+  servidores da empresa
 - Criação da infraestrutura para a cobertura das eleições brasileiras de 2014.
 - Criação da infraestrutura para a cobertura Copa do Mundo de 2014.
 ```
@@ -112,14 +112,13 @@ servidores da empresa
 ###### MARÇO DE 2009 - DEZEMBRO DE 2012
 
 ```
-* Um dos responsáveis pela manutenção e funcionamento da infraestrutura do ambiente de 
-  portais do Grupo Estado, focando o trabalho nas plataformas VMWare e servidores Linux, lider 
-  da equipe de infraestrutura dos portais do grupo.
+* Um dos responsáveis pela manutenção e funcionamento da infraestrutura do ambiente de
+  portais do Grupo Estado, focando o trabalho nas plataformas VMWare e servidores Linux, 
+  lider da equipe de infraestrutura dos portais do grupo.
 * Responsável pela inicialização, utilização e consolidação da plataforma VMWare no ambiente 
   ocasionando maior tempo de disponibilidade do ambiente, redução de custos, agilidade de 
   entrega de nova estrutura de servidores para novos projetos e normalização total do ambiente, 
-  devido a centralização dos processos de administração/monitoração do ambiente pelo VCenter Storage
-  dedicado.
+  devido a centralização dos processos de administração/monitoração do ambiente pelo VCenter Storage dedicado.
 * Responsável pela elaboração e execução do projeto "Nirvana" dos portais do estadão que 
   consistia em consolidar todos os servidores em uma plataforma única e centralizada com VMware 
   VSphere 5. Responsável técnico pelos projetos abaixo.
@@ -127,13 +126,14 @@ servidores da empresa
 - Radio Estadão ESPN: Implantação da estrutura para o novo site da radio Estadão ESPN, bem como 
   coordenação da migração dos servidores da ESPN para o ambiente VMWare da estrutura do Portal 
   Estadão.
-- Projeto iPAD: Implantação dos servidores na plataforma Woodwing para diagramação do conteúdo para ipad.
+- Projeto iPAD: Implantação dos servidores na plataforma Woodwing para diagramação do 
+  conteúdo para ipad.
 - Projeto Acervo Estadão: onde foi disponibilizado todas as edições do estadão na internet 
   (137 anos de jornal).
-- Projetos do site do estadão como: Divirta-se, Projeto E+, PME, Revista Piauí, Economia, Política e
-  estrutura de blogs em Wordpress.
-- Implantação e configuração de storages HP iSCSI serie P4000 para utilização com VMWare e linux no 
-  ambiente do portal estadão.
+- Projetos do site do estadão como: Divirta-se, Projeto E+, PME, Revista Piauí, Economia, 
+  Política e estrutura de blogs em Wordpress.
+- Implantação e configuração de storages HP iSCSI serie P4000 para utilização com VMWare e linux 
+  no ambiente do portal estadão.
 - Implantação e utilização de servidores Varnish para diminuição de carga nos servidores apache de 
   front-end.
 - Implantação da nova infraestrutura e migração do ambiente de publicidade “Realmedia OAS 11”.
