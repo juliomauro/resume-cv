@@ -105,6 +105,27 @@ Other project learship were as follows:
 - Divirta-se, E+, PME, Piauí, Economia, Política and Wordpress blogs.
 ```
 
+#### Sterling Commerce, São Paulo e Curitiba
+* Senior Linux and GIS Consultant
+
+###### MARCH 2007 - JANUARY 2009
+
+* I worked as a consultant for several financial companies such as Banco Itaú, 
+  Banco HSBC, Banco Votorantim, CEMIG and others, seeking and creating solutions 
+  for file interchange, data processing, process management and consulting on the 
+  Linux / UNIX platform.
+
+```
+- Technical consultant responsible for the HSBC File Transfer project, joining the 
+  HSBC payment 
+  systems at the Brasil site, located in Curitiba.
+- Technical consultant responsible for Banco Itaú's international payment project.
+- Technical consultant responsible for the integration project of payments between 
+  Banco Itaú's national banks.
+- Instructor of Gentran Integration Suite (GIS) course for new Sterling Commerce consultants
+  and clients, working on Linux, Unix and Solaris platforms.
+```
+
 ### EDUCATION
 
 ##### Kaplan International English, Toronto, Canadá
