@@ -6,10 +6,12 @@
 
 ### PROFESSIONAL SKILLS:
 
-For more than twenty years I have been working as an IT professional employee and than as a consultant. Doing so I had the opportunity of working for distinct markets and companies as follows: Internet providers, banks, newspaper as well as for the tourism market. I have taken part on teams such as IT senior teams, support and sustainability, systems architecture and yet on IT operational infrastructure team.
+As a seasoned professional with more than twenty years of experience, I had the opportunity of working for different industries such as Internet Service Providers, Banks, News Media and Tourism.
+I have a broad experience in operations, systems architecture and infrastructure.
 
-Throughout my IT carrier I have been taking the advantage of the Open Source technologies on which I would make it possible of doing things myself as my aim purpose. Therefore, archiving costs reduction as well increasing agility for delivering solutions.
-Finally I have got also the expertise of understanding IT complex enterprise environments such as Data Centers working flows, and the ability to identify the best practices to deliver fast good results. Experience on leadership of senior IT working teams as well as of 24x7 operational support teams. I can be capable to handle interviews for the new company’s job opportunity as required.
+Between my knowledge of open source solutions and past experiences, I am able to deliver reliable and fast low-cost solutions.
+
+My experience managing large and complex environments allows me to identify the best practices to deliver excellent results, both independently and as part of a team.
 
 ### COMPUTER LITERACY:
 
