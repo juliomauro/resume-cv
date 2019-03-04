@@ -1,3 +1,4 @@
+![Julio Mauro](https://avatars1.githubusercontent.com/u/25463339?s=90&v=4) 
 # Julio Cesar Mauro
 * E-mail: juliomauro@gmail.com
 * LinkeIn: https://linkedin.com/in/juliomauro
@@ -12,10 +13,19 @@ Finally I have got also the expertise of understanding IT complex enterprise env
 
 ### COMPUTER LITERACY:
 
-Solid technological experience on several applications as follows: VMWare, Linux, AWS virtualization, PV2, Vmotion, Storage, HA, balancer, Tunning and vSphere and its functionalities.
-On AWS environment: Large experience on EC2, EBS, Security Group, VPC, VPN, AutoScaling, Route 53, CloudWatch ELB, S3, CDN and RDS.
-On Linux environment: Solid experience with Web Servers, Varnish cache application, Wordpress Blog server, VPN, FTP server, OpenLdap implementation, IPTables security FW, MySQL database, AWStats, DHCP server, Linux Shell script coding, Phyton, Ansible, Terraform and also K8s for computer tasks automation.
-On AWS platform: Vast experience on deploying new server machines and DR environment. Administration of applications as follows: Balancers, Firewall, Backup, Storage and other solutions such as AKAMAI CDN configuration and testing, BIG-IP, F5 and A10 Networks balancer solutions. Irules, Virtual pool servers for servers loading distribution, Storage and iSCSI protocol.
+- Solid technological experience on several applications as follows: VMWare, Linux, AWS
+  virtualization, PV2, Vmotion, Storage, HA, balancer, Tunning and vSphere and its functionalities.
+- On AWS environment: Large experience on EC2, EBS, Security Group, VPC, VPN, AutoScaling, 
+  Route 53, CloudWatch ELB, S3, CDN and RDS.
+- On Linux environment: Solid experience with Web Servers, Varnish cache application, Wordpress
+  Blog server, VPN, FTP server, OpenLdap implementation, IPTables security FW, MySQL database,
+  AWStats, DHCP server, Linux Shell script coding, Phyton, Ansible, Terraform and also K8s for
+  computer tasks automation.
+- On AWS platform: Vast experience on deploying new server machines and DR environment.
+  Administration of applications as follows: Balancers, Firewall, Backup, Storage and other
+  solutions such as AKAMAI CDN configuration and testing, BIG-IP, F5 and A10 Networks balancer
+  solutions. Irules, Virtual pool servers for servers loading distribution, Storage and iSCSI
+  protocol.
 
 
 ### WORK EXPERIENCE
@@ -52,7 +62,7 @@ Senior IT coordinator
 ```
 - As a coordenator, the main tasks were as follows: Reformulations and improvements of the web
   systems, server process and newspaper printing solution; migration of XEN-Virtualization
-   platform to VMWare / Vsphere.
+  platform to VMWare / Vsphere.
 - Reponsible for implementing the VMware high ability virtualization pool as well as for
   redesigning the new Company's main Website, smartphone and tablet APP. e.g. Livraria da Folha,
   Transfolha, Folhapress,  and yet Backup and restore new infrastructure solution. Also,  a new
