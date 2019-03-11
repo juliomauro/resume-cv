@@ -176,10 +176,15 @@ vocabulary.
 - Linux Professional Institute - LPI 101 e 102
 ```
 
-### LANGUAGES
-
+### LANGUAGE SKILLS:
 ```
-- Native Portuguese
-- Advanced English
-- Advanced Italian
+- Brazilian Portuguese as the native language.
+- Advanced English as the secondary language.
+- Advanced Italian as the Italian citizenship language.
+```
+
+### OTHER INFORMATION WHICH MAY CONCERN:
+```
+- US Valid VISA.
+- European Citizenship.
 ```
