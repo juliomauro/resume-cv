@@ -110,20 +110,23 @@ Other project learship were as follows:
 
 ###### MARCH 2007 - JANUARY 2009
 
-* I worked as a consultant for several financial companies such as Banco Itaú, 
-  Banco HSBC, Banco Votorantim, CEMIG and others, seeking and creating solutions 
-  for file interchange, data processing, process management and consulting on the 
-  Linux / UNIX platform.
+* As a Linux and Gentran Integration Suite consultant for some of the knownest Bank Companies in Brazil, the main tasks were as follow:
 
 ```
-- Technical consultant responsible for the HSBC File Transfer project, joining the 
-  HSBC payment 
-  systems at the Brasil site, located in Curitiba.
-- Technical consultant responsible for Banco Itaú's international payment project.
-- Technical consultant responsible for the integration project of payments between 
-  Banco Itaú's national banks.
-- Instructor of Gentran Integration Suite (GIS) course for new Sterling Commerce consultants
-  and clients, working on Linux, Unix and Solaris platforms.
+- Data file seek exchange 
+- Data processing
+- process management
+- Senior Linux/Unix professional consulting.
+```
+* Manager of the following projects:
+
+```
+- File transfer for HSBC Bank in order to unify the payment system between the Brazilian branches. 
+- Itaú Bank international payment system project launched. 
+- Itaú Bank international payment system integration for the national branches. 
+- Itaú Bank and Bank of Brazil payment system integration project. 
+- Instructor for the GIS Gentran Integration Suite for new clients and consultants over Linux, Unix 
+  and Solaris operational systems platforms.
 ```
 
 ### EDUCATION
@@ -173,10 +176,15 @@ vocabulary.
 - Linux Professional Institute - LPI 101 e 102
 ```
 
-### LANGUAGES
-
+### LANGUAGE SKILLS:
 ```
-- Native Portuguese
-- Advanced English
-- Advanced Italian
+- Brazilian Portuguese as the native language.
+- Advanced English as the secondary language.
+- Advanced Italian as the Italian citizenship language.
+```
+
+### OTHER INFORMATION WHICH MAY CONCERN:
+```
+- US Valid VISA.
+- European Citizenship.
 ```
