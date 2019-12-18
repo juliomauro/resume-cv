@@ -32,11 +32,28 @@ My experience managing large and complex environments allows me to identify the 
 
 ### WORK EXPERIENCE
 
+#### Wavy Global, São Paulo / Campinas
+* infrastructure Specialist 
+
+###### SINCE APRIL 2019
+
+```
+Infrastructure team specialist responsible for the company's on premise and cloud environments.
+
+Some of the work performed:
+
+- Implementation of hashicorp's Vault + Consul cluster for use in automation processes using terraform, jenkins, chef and scripts via CLI.
+- Implementation of virtual server orchestration system for the on premise environment.
+- Deployment of new datacenter using VMWare as virtualization technology.
+- Migrating enterprise customers to the new data center.
+- Maintenance and support of the kubernetes environment.
+```
+
 ##### CVC Corp, Santo André / Trend Operadora, São Paulo 
 * DevOps on AWS and VMWare environments
 * Cloud and infrastructure coordinator
 
-###### SINCE NOVEMBER 2015
+###### NOVEMBER 2015 - APRIL 2019
 ```
 - Responsible for supervising the staff infrastructure and internal support teams caring
   for the good functioning of the Company's internal and external systems. 
