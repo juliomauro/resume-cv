@@ -7,7 +7,7 @@
 
 ### COMPETÊNCIAS
 
-Possuo mais de 20 anos de experiência em Tecnologia da Informação. Tive a oportunidade de
+Possuo 22 anos de experiência em Tecnologia da Informação. Tive a oportunidade de
 trabalhar em mercados distintos, entre eles, provedores de internet, bancos, mídia impressa e
 turismo. Atuei na área de suporte, sustentação/operação, arquitetura de sistemas e arquitetura
 de infraestrutura.
@@ -36,12 +36,30 @@ Experiência nas ferramentas de automação terraform e ansible em ambiente AWS 
 
 ### EXPERIÊNCIA PROFISSIONAL
 
+
+#### Wavy Global, São Paulo / Campinas
+* Especialista em infraestrutura 
+
+###### DESDE ABRIL 2019
+
+```
+Especialista do time de infraestrutura responsável pelos ambientes on premise e cloud da empresa.
+
+Alguns dos trabalhos efetuados:
+
+- Implantação do cluster de Vault + Consul da hashicorp para utilização nos processos de automação utilizando terraform, jenkins, chef e scripts via CLI.
+- Implantação de sistema de orquestração de servidores virtuais para o ambiente on premise.
+- Implantação de novo datacenter utilizando VMWare como tecnologia de virtualização.
+- Migração de clientes da empresa para o novo datacenter.
+- Manutenção e sustentação do ambiente de kubernetes.
+```
+
 #### CVC Corp, Santo André / Trend Operadora, São Paulo 
 * Coordenador de infraestrutura e Cloud
 * DevOPS em ambiente AWS e VMWare
 * Especialista AWS, VMware e Linux
 
-###### DESDE DE NOVEMBRO DE 2015
+###### NOVEMBRO DE 2015 - ABRIL 2019
 
 ```
 - Integrante sênior da equipe de DevOPS CVC, responsável pela criação automatizada dos ambientes
