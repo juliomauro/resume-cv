@@ -32,7 +32,7 @@ My experience managing large and complex environments allows me to identify the 
 
 ### WORK EXPERIENCE
 
-#### Wavy Global, São Paulo / Campinas
+#### Sinch, São Paulo / Campinas
 * infrastructure Specialist 
 
 ###### SINCE APRIL 2019
