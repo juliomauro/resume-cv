@@ -1,95 +1,94 @@
 ![Julio Mauro](https://avatars1.githubusercontent.com/u/25463339?s=90&v=4) 
 # Julio Cesar Mauro
 
-**Gestor de Infraestrutura, Cloud e Segurança**  
-**+25 anos em ambientes críticos | Estratégias de TI e Liderança Técnica**  
-São Paulo, Brasil  
+**Head of Infrastructure, Cloud, and Security**  
+**+25 years managing critical environments | IT Strategy and Technical Leadership**  
+São Paulo, Brazil  
 [LinkedIn](https://www.linkedin.com/in/juliomauro) • [Email](mailto:julio.mauro@gmail.com)
 
 ---
 
-## Resumo
+## Summary
 
-Com mais de 25 anos de experiência em Tecnologia da Informação, atuo como líder em infraestrutura, segurança da informação e ambientes cloud. Minha carreira foi construída gerenciando operações críticas, assegurando alta disponibilidade, otimizando ambientes híbridos e liderando times técnicos na entrega de soluções estratégicas para o negócio.
+With over 25 years of experience in Information Technology, I act as a leader in infrastructure, information security, and cloud environments. My career has been built managing critical operations, ensuring high availability, optimizing hybrid environments, and leading technical teams to deliver strategic solutions aligned with business goals.
 
-Na minha trajetória, liderei iniciativas em grandes grupos como Sinch, CVC Corp, Folha de S.Paulo e Estadão, unindo visão técnica e foco em resultados. Tenho forte experiência na construção e gestão de equipes multidisciplinares, promovendo inovação, agilidade e resiliência tecnológica.
+Throughout my journey, I led initiatives at major organizations such as Sinch, CVC Corp, Folha de S.Paulo, and Estadão, combining technical expertise with business-driven results. I have strong experience in building and managing multidisciplinary teams, promoting innovation, agility, and technological resilience.
 
 ---
 
-## Competências-chave
+## Core Competencies
 
-- Liderança de times de TI
-- Estratégias de Infraestrutura
-- Gestão de Segurança da Informação
-- Governança de TI
+- IT Team Leadership
+- Infrastructure Strategy
+- Information Security Management
+- IT Governance
 - Cloud Computing (AWS, GCP, Huawei Cloud)
-- Automação (Terraform, Ansible)
-- Migração e Integração de Sistemas
-- Redução de Custos em Cloud
+- Automation (Terraform, Ansible)
+- Systems Migration and Integration
+- Cloud Cost Optimization
 - DevOps
-- Resposta a Incidentes
+- Incident Response
 
 ---
 
-## Resumo de Carreira
+## Career Overview
 
-Iniciei minha trajetória na área técnica de TI, com forte atuação em ambientes Linux, Unix, VMware e integração de sistemas críticos em grandes empresas de comunicação e tecnologia.
+I began my professional journey in technical IT roles, specializing in Linux, Unix, VMware, and critical systems integration at major communication and technology companies.
 
-Com o aprofundamento técnico e a experiência em projetos de alta complexidade, evoluí para funções de coordenação e liderança, sendo o responsável direto por equipes de infraestrutura, cloud e segurança em organizações como CVC Corp e Folha de S.Paulo.
+As I deepened my technical expertise and led complex projects, I transitioned into leadership roles, taking direct responsibility for infrastructure, cloud, and security teams at organizations such as CVC Corp and Folha de S.Paulo.
 
-Atualmente, atuo como especialista e líder em segurança e infraestrutura de TI na Sinch, promovendo a integração de tecnologia e estratégia de negócios, focado na resiliência, inovação e otimização de ambientes críticos.
+Today, I serve as a specialist and leader in IT security and infrastructure at Sinch, driving the integration of technology and business strategy with a focus on resilience, innovation, and optimization of critical environments.
 
-Meu objetivo é continuar impulsionando resultados através da gestão de equipes multidisciplinares, fortalecimento de práticas de segurança da informação e evolução constante da infraestrutura tecnológica alinhada às necessidades do negócio.
+My goal is to continue delivering results through the management of multidisciplinary teams, strengthening information security practices, and continuously evolving technological infrastructure aligned with business needs.
 
 ---
 
-## Experiência Profissional
+## Professional Experience
 
 ### Sinch
-**Especialista em Segurança de TI**  
-_Setembro de 2023 – Presente | Estocolmo, Suécia_  
-- Liderança em iniciativas de cibersegurança para proteção de ambientes cloud e on-premises.
-- Estratégias de mitigação de riscos e resposta a incidentes.
+**IT Security Specialist**  
+_September 2023 – Present | Stockholm, Sweden_  
+- Leading cybersecurity initiatives to protect cloud and on-premises environments.
+- Developing proactive and reactive risk mitigation strategies and incident response processes.
 
-**Especialista em Infraestrutura de TI**  
-_Abril de 2019 – Outubro de 2023 | Estocolmo, Suécia_  
-- Design, implementação e gestão de ambientes críticos (AWS, GCP, Huawei Cloud e on-premises).
+**IT Infrastructure Specialist**  
+_April 2019 – October 2023 | Stockholm, Sweden_  
+- Designed, implemented, and managed critical environments (AWS, GCP, Huawei Cloud, on-premises).
 
 ### CVC CORP
-**Coordenador de TI**  
-_Novembro de 2015 – Março de 2019 | São Paulo, Brasil_  
-- Responsável pela liderança direta da equipe de infraestrutura e suporte interno.
-- Modernização de ambientes, migração de datacenter e implantação de soluções em nuvem.
+**IT Infrastructure Coordinator**  
+_November 2015 – March 2019 | São Paulo, Brazil_  
+- Sole coordinator responsible for infrastructure and internal support teams.
+- Led data center migration, modernization projects, and cloud solutions deployment.
 
 ### Folha de S.Paulo
-**Coordenador de TI**  
-_Janeiro de 2013 – Outubro de 2015 | São Paulo, Brasil_  
-- Coordenação das equipes de Linux e Banco de Dados.
-- Liderança em projetos de modernização de infraestrutura e transformação digital.
+**IT Coordinator**  
+_January 2013 – October 2015 | São Paulo, Brazil_  
+- Led Linux and Database teams.
+- Directed infrastructure modernization and digital transformation projects.
 
 ### S.A. O Estado de S.Paulo
-**Especialista VMware e Consultor Linux Sênior**  
-_Março de 2009 – Dezembro de 2012 | São Paulo, Brasil_  
-- Consolidação de servidores físicos com VMware vSphere.
-- Projetos de alta disponibilidade, integração com Akamai e modernização de portais digitais.
+**VMware Specialist and Senior Linux Consultant**  
+_March 2009 – December 2012 | São Paulo, Brazil_  
+- Led server consolidation with VMware vSphere and improved digital platforms' resilience.
 
 ### Sterling Commerce
 **GIS and Unix Senior Consultant**  
-_Setembro de 2005 – Março de 2009 | São Paulo e Curitiba, Brasil_  
-- Soluções de integração e automação para o setor financeiro.
-- Arquitetura de ambientes críticos em Linux, Unix e Solaris.
+_September 2005 – March 2009 | São Paulo and Curitiba, Brazil_  
+- Designed and deployed integration and automation solutions for financial institutions.
 
 ### Interdotnet do Brasil
-**Analista Linux**  
-_Junho de 1998 – Junho de 2005 | São Paulo, Brasil_  
-- Administração de redes, migração para Linux e suporte a clientes de links dedicados.
+**Linux Analyst**  
+_June 1998 – June 2005 | São Paulo, Brazil_  
+- Managed internal networks, migrated to Linux, and provided SLA-based client support.
 
 ---
 
-## Formação Acadêmica
+## Education
 
-- **FASP** – Bacharelado em Engenharia da Computação (2002–2007)
+- **FASP** – Bachelor’s Degree in Computer Engineering (2002–2007)
 - **Kaplan International English (Toronto)** – Intensive English Program (2017)
-- **FECAP** – Técnico em Processamento de Dados (1995–1997)
+- **FECAP** – Technical Degree in Data Processing (1995–1997)
 
 ---
+
