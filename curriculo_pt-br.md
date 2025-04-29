@@ -1,10 +1,24 @@
 ![Julio Mauro](https://avatars1.githubusercontent.com/u/25463339?s=90&v=4) 
+---
+layout: default
+---
+
 # Julio Cesar Mauro
 
 **Gestor de Infraestrutura, Cloud e Segurança**  
 **+25 anos em ambientes críticos | Estratégias de TI e Liderança Técnica**  
 São Paulo, Brasil  
-[LinkedIn](https://www.linkedin.com/in/juliomauro) • [Email](mailto:julio.mauro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/juliomauro) | [Email](mailto:julio.mauro@gmail.com)
+
+---
+
+## 🔹 Índice
+
+- [Resumo](#resumo)
+- [Competências-chave](#competências-chave)
+- [Resumo de Carreira](#resumo-de-carreira)
+- [Experiência Profissional](#experiência-profissional)
+- [Formação Acadêmica](#formação-acadêmica)
 
 ---
 
@@ -12,7 +26,7 @@ São Paulo, Brasil
 
 Com mais de 25 anos de experiência em Tecnologia da Informação, atuo como líder em infraestrutura, segurança da informação e ambientes cloud. Minha carreira foi construída gerenciando operações críticas, assegurando alta disponibilidade, otimizando ambientes híbridos e liderando times técnicos na entrega de soluções estratégicas para o negócio.
 
-Na minha trajetória, liderei iniciativas em grandes grupos como Sinch, CVC Corp, Folha de S.Paulo e Estadão, unindo visão técnica e foco em resultados. Tenho forte experiência na construção e gestão de equipes multidisciplinares, promovendo inovação, agilidade e resiliência tecnológica.
+Na minha trajetória, liderei iniciativas em grandes grupos como Sinch, CVC Corp, Folha de S.Paulo e Estadão, unindo visão técnica e foco em resultados.
 
 ---
 
@@ -39,7 +53,7 @@ Com o aprofundamento técnico e a experiência em projetos de alta complexidade,
 
 Atualmente, atuo como especialista e líder em segurança e infraestrutura de TI na Sinch, promovendo a integração de tecnologia e estratégia de negócios, focado na resiliência, inovação e otimização de ambientes críticos.
 
-Meu objetivo é continuar impulsionando resultados através da gestão de equipes multidisciplinares, fortalecimento de práticas de segurança da informação e evolução constante da infraestrutura tecnológica alinhada às necessidades do negócio.
+Meu objetivo é continuar impulsionando resultados através da gestão de equipes multidisciplinares e evolução da infraestrutura alinhada às necessidades de negócio.
 
 ---
 
@@ -47,49 +61,53 @@ Meu objetivo é continuar impulsionando resultados através da gestão de equipe
 
 ### Sinch
 **Especialista em Segurança de TI**  
-_Setembro de 2023 – Presente | Estocolmo, Suécia_  
-- Liderança em iniciativas de cibersegurança para proteção de ambientes cloud e on-premises.
-- Estratégias de mitigação de riscos e resposta a incidentes.
+_Setembro 2023 - Presente | Estocolmo, Suécia_
+
+- Liderança de iniciativas de cibersegurança para ambientes cloud e on-premises.
+- Definição de estratégias de mitigacão de riscos.
 
 **Especialista em Infraestrutura de TI**  
-_Abril de 2019 – Outubro de 2023 | Estocolmo, Suécia_  
-- Design, implementação e gestão de ambientes críticos (AWS, GCP, Huawei Cloud e on-premises).
+_Abril 2019 - Outubro 2023 | Estocolmo, Suécia_
+
+- Gestão de ambientes críticos em AWS, GCP, Huawei Cloud e data centers on-premises.
 
 ### CVC CORP
 **Coordenador de TI**  
-_Novembro de 2015 – Março de 2019 | São Paulo, Brasil_  
-- Responsável pela liderança direta da equipe de infraestrutura e suporte interno.
-- Modernização de ambientes, migração de datacenter e implantação de soluções em nuvem.
+_Novembro 2015 - Março 2019 | São Paulo, Brasil_
+
+- Liderança da equipe de infraestrutura e suporte.
+- Migração de datacenter e projetos de modernização.
 
 ### Folha de S.Paulo
 **Coordenador de TI**  
-_Janeiro de 2013 – Outubro de 2015 | São Paulo, Brasil_  
-- Coordenação das equipes de Linux e Banco de Dados.
-- Liderança em projetos de modernização de infraestrutura e transformação digital.
+_Janeiro 2013 - Outubro 2015 | São Paulo, Brasil_
 
-### S.A. O Estado de S.Paulo
+- Modernização da infraestrutura, liderança em transformação digital.
+
+### Estadão
 **Especialista VMware e Consultor Linux Sênior**  
-_Março de 2009 – Dezembro de 2012 | São Paulo, Brasil_  
-- Consolidação de servidores físicos com VMware vSphere.
-- Projetos de alta disponibilidade, integração com Akamai e modernização de portais digitais.
+_Março 2009 - Dezembro 2012 | São Paulo, Brasil_
+
+- Consolidação de servidores com VMware vSphere, integração de portais digitais.
 
 ### Sterling Commerce
 **GIS and Unix Senior Consultant**  
-_Setembro de 2005 – Março de 2009 | São Paulo e Curitiba, Brasil_  
-- Soluções de integração e automação para o setor financeiro.
-- Arquitetura de ambientes críticos em Linux, Unix e Solaris.
+_Setembro 2005 - Março 2009 | São Paulo e Curitiba, Brasil_
+
+- Integração de sistemas para o setor financeiro (Itaú, HSBC).
 
 ### Interdotnet do Brasil
 **Analista Linux**  
-_Junho de 1998 – Junho de 2005 | São Paulo, Brasil_  
-- Administração de redes, migração para Linux e suporte a clientes de links dedicados.
+_Junho 1998 - Junho 2005 | São Paulo, Brasil_
+
+- Administração de redes e migração para Linux.
 
 ---
 
 ## Formação Acadêmica
 
-- **FASP** – Bacharelado em Engenharia da Computação (2002–2007)
-- **Kaplan International English (Toronto)** – Intensive English Program (2017)
-- **FECAP** – Técnico em Processamento de Dados (1995–1997)
+- **FASP** - Engenharia da Computação (2002–2007)
+- **Kaplan International English** (Toronto) - Intensive English (2017)
+- **FECAP** - Técnico em Processamento de Dados (1995–1997)
 
 ---
